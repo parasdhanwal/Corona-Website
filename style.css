@@ -1,0 +1,51 @@
+
+body{
+
+  background-color: black;
+}
+h1{
+  padding-left: 10%
+}
+h2{
+  padding-bottom: 10%;
+}
+img {
+  margin-left: 25%;
+  }
+  body{
+    background-color: black;
+  }
+  .intro{
+    background-color:#e8ffff;
+    padding-bottom: 10%;
+  }
+  .middle{
+    background-color: #a6f6f1;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-family: 'Handlee', cursive;
+    font-family: 'Noto Serif TC', serif;
+
+      }
+  .Precaution{
+    background-color: #41aea9
+  }
+  .end{
+    padding-top:10%;
+    padding-bottom:10%;
+    background-color: #a6f6f1;
+  }
+  #features{
+    padding-left: 10px;
+    padding-right: 10px;
+   background-color:#e8ffff;
+   padding: 7% 15%;
+    text-align: center;
+
+
+  }
+  #footer{
+
+    text-align: center;
+    margin-top: 0;
+  }
